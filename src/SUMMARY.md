@@ -12,7 +12,7 @@
 - [Pointers and References](chapter8.md)
 - [OOP - Classes and Objects](chapter9.md)
 - [Operator Overloading](chapter10.md)
-- [Inheritence](chapter11.md)
+- [Inheritance](chapter11.md)
 - [Polymorphism](chapter12.md)
 - [Smart Pointers](chapter13.md)
 - [Exception Handling](chapter14.md)
