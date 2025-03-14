@@ -7,6 +7,7 @@ title = "C++ Explained"
 
 [output.html]
 git-repository-url="https://github.com/emre-ergun/mdbook-cpp"
+no-section-label = true
 
 [output.html.playground]
 runnable = false
